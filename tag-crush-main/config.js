@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'Em yêu anh có phải không 😙',
     desc: 'Em không trả lời hoặc thoát ra, tức là em là vợ anh đó nha :> ',
     btnYes: 'yêu ơi là iuuu <33',
-    btnNo: 'EM mơ à :333',
+    btnNo: 'Anh mơ à :333',
     question:'Nói cho anh lý do vì sao em yêu anh đii <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Tại vì anh đẹp trai hihi <33333333',
