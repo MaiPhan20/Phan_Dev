@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Love you 309 😘😘',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.Cả bầu trời này của tớ dành riêng cho bạn',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/hai.nguyenphuc.276'
+    messLink: 'https://www.facebook.com/maiphan210200'
 }
